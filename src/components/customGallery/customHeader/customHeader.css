@@ -1,0 +1,19 @@
+.customHeader {
+    width: 100%;
+    text-align:center;
+}
+
+.leftElements {
+    float: left;
+    display:flex;
+}
+
+.centerElements {
+    display: inline-block;
+    margin:0 auto;
+}
+
+.rightElements {
+    float: right;
+    display:flex;
+}
